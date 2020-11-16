@@ -64,3 +64,6 @@ The temporal dimension has not been modeled. These scenaris are path dependant a
 ## Post Procecessing
 
 The model variables will be instantiated with categorical variables to decouple model construction and calbration. The categorical variables (e.g. low, medium, high for capital value change distributions) will then be calibrated to opinions of internal experts as well as data published in external reports. 
+
+## Disclaimer
+This project is only an experiment and a Proof-of-Concept of using Bayesian Networks to stress test a CRE portfolio. We do not accept any responsibility for any losses incurred with the use of the model.
